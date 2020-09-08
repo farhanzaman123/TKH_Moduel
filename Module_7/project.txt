@@ -1,5 +1,5 @@
 A community problem that I want to solve with technology is creating an app to help people find free parking spot around thier area.
 It is hard enough to find a parking spot but on top of that some people have to pay for meter parking. I want to create an app that takes into account of all the free parking space around the area and let the user know which one is closet to them, and send notification.
-In this app I want it to send user notification when the nearest parking space will open up and they can also book book the free parking space.
+In this app I want it to send user notification when the nearest parking space will open up and they can also book book the free parking space. I want to get this data when there is a free parking spot from either traffic or street cameras. Whenever it detecs an open space it will send the data to the app to notify user of the space and where the nearest parking space is located.I also want the app to take data from crime watchers to alert the user if there is a high chance of car theft in the area if so they should avoid parking there. If there isnt any free aviliable parking spot near the area I want the app to notify the user nearby meter parking I want the meter parking to send data to the app whenver there is space avaliable.
 
  
